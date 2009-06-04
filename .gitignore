@@ -1,0 +1,12 @@
+*.vssscc
+*.suo
+*proj.vspscc
+*proj.user
+_sgbak
+push.sh
+bin
+x86
+obj
+x86/*
+bin/*
+obj/*
